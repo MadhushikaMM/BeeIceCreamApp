@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366800886116",
+    "project_id": "beeicecreamlogin",
+    "storage_bucket": "beeicecreamlogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366800886116:android:21c3370395593399e00271",
+        "android_client_info": {
+          "package_name": "com.example.bee_icecream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nbHHeUQMJUjhoVwbK3qytpdQZSOLgHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
