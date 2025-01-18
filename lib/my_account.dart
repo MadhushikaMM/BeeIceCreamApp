@@ -46,7 +46,7 @@ class _MyAccountState extends State<MyAccount> {
                     ),
                     SizedBox(height: 8),
                     Text(
-                      'a@a.com', // This should come from user data or authentication
+                      'a@a.com', // This come from user data or authentication
                       style: TextStyle(fontSize: 12, color: Colors.white),
                     )
                   ],
